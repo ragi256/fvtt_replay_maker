@@ -1,0 +1,19 @@
+{
+  "version": "2",
+  "remote": {
+    "https://code4fukui.github.io/voicevox-api/fetchAudio.js": "4909c1a4c4626a3706d2d1975d676ab7566a46b61b6782d9c3ec7b71ff5e9908",
+    "https://js.sabae.cc/fetchBinByJSON.js": "342ee4d3991fffec70c1a13b8cfc685c9d85463a6befb7e6d95d1c269a342046",
+    "https://js.sabae.cc/fetchJSON.js": "08cba7da832c4e4448446facd4825a023c259656449ddf44388f2f52bafb635b"
+  },
+  "npm": {
+    "specifiers": {
+      "node-wav@0.0.2": "node-wav@0.0.2"
+    },
+    "packages": {
+      "node-wav@0.0.2": {
+        "integrity": "sha512-M6Rm/bbG6De/gKGxOpeOobx/dnGuP0dz40adqx38boqHhlWssBJZgLCPBNtb9NkrmnKYiV04xELq+R6PFOnoLA==",
+        "dependencies": {}
+      }
+    }
+  }
+}

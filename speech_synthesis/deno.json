@@ -1,0 +1,5 @@
+{
+  "tasks": {
+    "audio": "deno run --allow-net --allow-read --allow-write makeAudio.ts"
+  }
+}
